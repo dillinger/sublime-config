@@ -1,2 +1,1 @@
-# Configurations of Sublime 3
-
+# Sublime 3 configuration
